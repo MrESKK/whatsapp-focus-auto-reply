@@ -1,0 +1,18 @@
+# Dependencies and WhatsApp authentication/session state
+node_modules/
+.wwebjs_auth/
+.wwebjs_cache/
+# Local credentials and generated iPhone setup
+config.json
+IPHONE-AYARLARI.txt
+.env
+.env.*
+!.env.example
+# Operating system and editor artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+npm-debug.log*
+coverage/
